@@ -18,12 +18,11 @@ A 2-armed crawling robot that autonomously discovers optimal locomotion gaits us
 ### Core Q-Learning Update Rule (executed every loop on Arduino)
 <img src="https://github.com/user-attachments/assets/6cdee654-7b21-434c-b0a6-4700784bfc67" alt="Q-Learning update rule"/>
 
-### Results
+### Say Hi!
 
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/4a897820-342e-4c58-95cb-eb8b307d94eb" alt="Robot prototype"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/ADD_YOUR_LEARNING_CURVE_OR_SECOND_PHOTO_HERE_IF_ANY" alt="Learning curve (optional)"/></td>
   </tr>
 </table>
 
@@ -32,7 +31,7 @@ A 2-armed crawling robot that autonomously discovers optimal locomotion gaits us
 </p>
 
 ### Key Achievements
-- One of the first fully embedded tabular Q-Learning implementations for locomotion on an 8-bit AVR microcontroller (2022)  
+- One of the first fully embedded tabular Q-Learning implementations for locomotion on an 8-bit AVR microcontroller 
 - Converges to optimal gait in ~80–120 episodes (~4–6 minutes real-time)  
 - Complete RL loop runs at 100–200 Hz using < 12 KB flash memory  
 - Zero external RL libraries – pure hand-written C++  
