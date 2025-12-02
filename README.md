@@ -26,16 +26,14 @@
 ### Core Q-Learning Update Rule (executed every step on ESP32)
 <img src="https://github.com/user-attachments/assets/6cdee654-7b21-434c-b0a6-4700784bfc67" alt="Q-Learning formula"/>
 
-### Gallery
+### Say Hi!
 
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/4a897820-342e-4c58-95cb-eb8b307d94eb" alt="Robot prototype"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/6cdee654-7b21-434c-b0a6-4700784bfc67" alt="Q-Learning formula"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/YOUR_FUTURE_PHOTO_1" alt="Robot learning in action (GIF/video placeholder)"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/YOUR_FUTURE_PHOTO_2" alt="LCD showing training progress"/></td>
+
   </tr>
 </table>
 
@@ -49,5 +47,3 @@
 - HC-SR04 ultrasonic sensor
 - 16×2 I2C LCD
 - Custom 3D-printed linkage mechanism
-
-### Repository Contents
